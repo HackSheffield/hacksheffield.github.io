@@ -1,1 +1,3 @@
-# hacksheffield.github.io
+# HackSheffield Society on GitHub
+
+Welcome!
